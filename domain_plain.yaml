@@ -1,6 +1,6 @@
 # Title: Plain_Domain_List
-# Generated: 2025-05-09 01:36:32
-# Total: 4901
+# Generated: 2025-05-09 04:18:09
+# Total: 4902
 
 payload:
 - 003153.xyz
@@ -588,7 +588,6 @@ payload:
 - bdapi-in-ads.realmemobile.com
 - bdapi.ads.oppomobile.com
 - bdns.io
-- bdns.link
 - bdns.pro
 - beacon-api.aliyuncs.com
 - beacon.qq.com
@@ -1196,7 +1195,6 @@ payload:
 - dns.eddi.net
 - dns.edgeburnmedia.com
 - dns.editechstudio.com
-- dns.efficientdocuments.com
 - dns.elemental.software
 - dns.eliv.kr
 - dns.engineer.web.id
@@ -1214,6 +1212,7 @@ payload:
 - dns.fehlsprache.de
 - dns.ffnw.de
 - dns.filipccz.eu
+- dns.fizz.studio
 - dns.flatuslifir.is
 - dns.flightspace.net
 - dns.floriantinney.de
@@ -3336,6 +3335,8 @@ payload:
 - proxy.wynd.network
 - proxy.yt
 - proxy0101.com
+- proxy1.startpage.com
+- proxy2.startpage.com
 - proxy2link.com
 - proxy2you.com
 - proxy3.startpage.com

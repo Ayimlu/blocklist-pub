@@ -1,6 +1,6 @@
 # Title: Domain_Blocklist_For_Clash_Meta
-# Generated: 2025-05-09 01:36:32
-# Total: 4901
+# Generated: 2025-05-09 04:18:09
+# Total: 4902
 
 payload:
 - DOMAIN,003153.xyz,REJECT
@@ -588,7 +588,6 @@ payload:
 - DOMAIN,bdapi-in-ads.realmemobile.com,REJECT
 - DOMAIN,bdapi.ads.oppomobile.com,REJECT
 - DOMAIN,bdns.io,REJECT
-- DOMAIN,bdns.link,REJECT
 - DOMAIN,bdns.pro,REJECT
 - DOMAIN,beacon-api.aliyuncs.com,REJECT
 - DOMAIN,beacon.qq.com,REJECT
@@ -1196,7 +1195,6 @@ payload:
 - DOMAIN,dns.eddi.net,REJECT
 - DOMAIN,dns.edgeburnmedia.com,REJECT
 - DOMAIN,dns.editechstudio.com,REJECT
-- DOMAIN,dns.efficientdocuments.com,REJECT
 - DOMAIN,dns.elemental.software,REJECT
 - DOMAIN,dns.eliv.kr,REJECT
 - DOMAIN,dns.engineer.web.id,REJECT
@@ -1214,6 +1212,7 @@ payload:
 - DOMAIN,dns.fehlsprache.de,REJECT
 - DOMAIN,dns.ffnw.de,REJECT
 - DOMAIN,dns.filipccz.eu,REJECT
+- DOMAIN,dns.fizz.studio,REJECT
 - DOMAIN,dns.flatuslifir.is,REJECT
 - DOMAIN,dns.flightspace.net,REJECT
 - DOMAIN,dns.floriantinney.de,REJECT
@@ -3336,6 +3335,8 @@ payload:
 - DOMAIN,proxy.wynd.network,REJECT
 - DOMAIN,proxy.yt,REJECT
 - DOMAIN,proxy0101.com,REJECT
+- DOMAIN,proxy1.startpage.com,REJECT
+- DOMAIN,proxy2.startpage.com,REJECT
 - DOMAIN,proxy2link.com,REJECT
 - DOMAIN,proxy2you.com,REJECT
 - DOMAIN,proxy3.startpage.com,REJECT
