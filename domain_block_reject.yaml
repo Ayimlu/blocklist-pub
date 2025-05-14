@@ -1,6 +1,6 @@
 # Title: Domain_Blocklist_For_Clash_Meta
-# Generated: 2025-05-14 03:07:25
-# Total: 4058
+# Generated: 2025-05-14 04:18:17
+# Total: 4059
 
 payload:
 - DOMAIN,003153.xyz,REJECT
@@ -47,6 +47,7 @@ payload:
 - DOMAIN,123ultraproxy.com,REJECT
 - DOMAIN,123unblocked.com,REJECT
 - DOMAIN,12vpx.com,REJECT
+- DOMAIN,14-88.pro,REJECT
 - DOMAIN,16yd.com,REJECT
 - DOMAIN,1a.ns.ozer.im,REJECT
 - DOMAIN,1and1-dns.de,REJECT
@@ -895,7 +896,6 @@ payload:
 - DOMAIN,dns.eddi.net,REJECT
 - DOMAIN,dns.edgeburnmedia.com,REJECT
 - DOMAIN,dns.editechstudio.com,REJECT
-- DOMAIN,dns.efficientdocuments.com,REJECT
 - DOMAIN,dns.elemental.software,REJECT
 - DOMAIN,dns.eliv.kr,REJECT
 - DOMAIN,dns.engineer.web.id,REJECT
@@ -913,7 +913,6 @@ payload:
 - DOMAIN,dns.fehlsprache.de,REJECT
 - DOMAIN,dns.ffnw.de,REJECT
 - DOMAIN,dns.filipccz.eu,REJECT
-- DOMAIN,dns.fizz.studio,REJECT
 - DOMAIN,dns.flatuslifir.is,REJECT
 - DOMAIN,dns.flightspace.net,REJECT
 - DOMAIN,dns.floriantinney.de,REJECT
@@ -1051,7 +1050,6 @@ payload:
 - DOMAIN,dns.mtoo.vip,REJECT
 - DOMAIN,dns.murgi.de,REJECT
 - DOMAIN,dns.muxinghe.cn,REJECT
-- DOMAIN,dns.mzjtechnology.com,REJECT
 - DOMAIN,dns.mzrme.cn,REJECT
 - DOMAIN,dns.n23.io,REJECT
 - DOMAIN,dns.nako.kr,REJECT
@@ -3001,6 +2999,7 @@ payload:
 - DOMAIN,schoology.hotunix.com,REJECT
 - DOMAIN,schoology123.org,REJECT
 - DOMAIN,schoolooks.com,REJECT
+- DOMAIN,schoolooks.net,REJECT
 - DOMAIN,schoolwebproxy.com,REJECT
 - DOMAIN,schooxy.com,REJECT
 - DOMAIN,schoprox.com,REJECT
@@ -3659,6 +3658,7 @@ payload:
 - DOMAIN,us-jac-w-p-1.nashkan.net,REJECT
 - DOMAIN,us-kan-w-f-1.nashkan.net,REJECT
 - DOMAIN,us-kan-w-p-1.nashkan.net,REJECT
+- DOMAIN,us-ny-alula.heliumcloud.cc,REJECT
 - DOMAIN,us-nyc-w-f-1.nashkan.net,REJECT
 - DOMAIN,us-nyc-w-p-1.nashkan.net,REJECT
 - DOMAIN,us-proxy.org,REJECT
@@ -3967,6 +3967,7 @@ payload:
 - DOMAIN,www-vpn.52oupa.com,REJECT
 - DOMAIN,www-yy.in6.to,REJECT
 - DOMAIN,www.chungocoai.name.vn,REJECT
+- DOMAIN,www.dnsadguard.co.uk,REJECT
 - DOMAIN,www.i.cpfrx.info,REJECT
 - DOMAIN,www.pleaseinput.html-5.me,REJECT
 - DOMAIN,wyx.cloud,REJECT
