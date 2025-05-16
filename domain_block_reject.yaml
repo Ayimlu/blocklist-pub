@@ -1,6 +1,6 @@
 # Title: Domain_Blocklist_For_Clash_Meta
-# Generated: 2025-05-15 04:18:20
-# Total: 4286
+# Generated: 2025-05-16 04:19:10
+# Total: 4299
 
 payload:
 - DOMAIN,003153.xyz,REJECT
@@ -33,6 +33,7 @@ payload:
 - DOMAIN,123music.app,REJECT
 - DOMAIN,123mymusic.net,REJECT
 - DOMAIN,123proxy.app,REJECT
+- DOMAIN,123proxy.biz,REJECT
 - DOMAIN,123proxy.cool,REJECT
 - DOMAIN,123proxy.me,REJECT
 - DOMAIN,123proxyx.com,REJECT
@@ -106,6 +107,7 @@ payload:
 - DOMAIN,8v9m.com,REJECT
 - DOMAIN,922proxy.com,REJECT
 - DOMAIN,99proxy.com,REJECT
+- DOMAIN,9w9.org,REJECT
 - DOMAIN,a-regist.anondns.net,REJECT
 - DOMAIN,a.cpfrx.info,REJECT
 - DOMAIN,a.family.ns.dnslify.com,REJECT
@@ -290,6 +292,7 @@ payload:
 - DOMAIN,aniscartujo.com,REJECT
 - DOMAIN,anonine.com,REJECT
 - DOMAIN,anonproxy.eu,REJECT
+- DOMAIN,anonproxy.org,REJECT
 - DOMAIN,anonvpn.io,REJECT
 - DOMAIN,anonwebproxy.com,REJECT
 - DOMAIN,anonymitynetwork.com,REJECT
@@ -326,6 +329,7 @@ payload:
 - DOMAIN,anyralnestridentrodinfisxu.ayrnatales.net,REJECT
 - DOMAIN,api.bytelixir.com,REJECT
 - DOMAIN,api.cloudflareclient.com,REJECT
+- DOMAIN,aplusvpn.com,REJECT
 - DOMAIN,appleproxy.com,REJECT
 - DOMAIN,appshost.us,REJECT
 - DOMAIN,aqua.is.my.waifu.cz,REJECT
@@ -426,6 +430,7 @@ payload:
 - DOMAIN,bingle.icu,REJECT
 - DOMAIN,bingle.pw,REJECT
 - DOMAIN,binhexsolutions.co.uk,REJECT
+- DOMAIN,bit123.biz,REJECT
 - DOMAIN,bitly-galatikx.duckdns.org,REJECT
 - DOMAIN,bitping.com,REJECT
 - DOMAIN,biying.flymlc.com,REJECT
@@ -453,6 +458,7 @@ payload:
 - DOMAIN,blufvpn.com,REJECT
 - DOMAIN,bmetrics.org,REJECT
 - DOMAIN,bne01.dnscry.pt,REJECT
+- DOMAIN,boda-vip.net,REJECT
 - DOMAIN,bodvpn.com,REJECT
 - DOMAIN,bog01.dnscry.pt,REJECT
 - DOMAIN,boghag.party,REJECT
@@ -524,6 +530,7 @@ payload:
 - DOMAIN,cars.happyforever.com,REJECT
 - DOMAIN,carverd.bine.me,REJECT
 - DOMAIN,casinovpn.com,REJECT
+- DOMAIN,catch.gift,REJECT
 - DOMAIN,catchen121299.top,REJECT
 - DOMAIN,catdns.org,REJECT
 - DOMAIN,cbentertainment.online,REJECT
@@ -844,6 +851,7 @@ payload:
 - DOMAIN,dns.ashleyjackson.net,REJECT
 - DOMAIN,dns.asterimoon.com,REJECT
 - DOMAIN,dns.asysec.com,REJECT
+- DOMAIN,dns.auapi.fun,REJECT
 - DOMAIN,dns.azsopro.net,REJECT
 - DOMAIN,dns.b33.space,REJECT
 - DOMAIN,dns.b612.me,REJECT
@@ -1348,6 +1356,7 @@ payload:
 - DOMAIN,doh.applied-privacy.net,REJECT
 - DOMAIN,doh.appliedprivacy.net,REJECT
 - DOMAIN,doh.archuser.org,REJECT
+- DOMAIN,doh.armadillodns.net,REJECT
 - DOMAIN,doh.asagiri.moe,REJECT
 - DOMAIN,doh.asia.dnswarden.com,REJECT
 - DOMAIN,doh.azoris.ovh,REJECT
@@ -1577,6 +1586,7 @@ payload:
 - DOMAIN,eqnar.ints.f5.si,REJECT
 - DOMAIN,erproxy.tk,REJECT
 - DOMAIN,error.proxy.startpage.com,REJECT
+- DOMAIN,error404becausepar1scantlose.run.place,REJECT
 - DOMAIN,esel.stusta.mhn.de,REJECT
 - DOMAIN,essay.gov.blacknapkins.org,REJECT
 - DOMAIN,eth.link,REJECT
@@ -2129,6 +2139,7 @@ payload:
 - DOMAIN,jacob-is-too-tiny.foxgateway.com,REJECT
 - DOMAIN,jagoanssh.com,REJECT
 - DOMAIN,jahyussif.hs.vc,REJECT
+- DOMAIN,jaiguneeds.root.sx,REJECT
 - DOMAIN,jalaliveapp.com,REJECT
 - DOMAIN,jamesisbald.xyz,REJECT
 - DOMAIN,janathanmahes-mysharepoint.com,REJECT
@@ -2896,7 +2907,6 @@ payload:
 - DOMAIN,proxy.wynd.network,REJECT
 - DOMAIN,proxy.yt,REJECT
 - DOMAIN,proxy0101.com,REJECT
-- DOMAIN,proxy1.startpage.com,REJECT
 - DOMAIN,proxy2link.com,REJECT
 - DOMAIN,proxy2you.com,REJECT
 - DOMAIN,proxy3.startpage.com,REJECT
@@ -3880,9 +3890,11 @@ payload:
 - DOMAIN,usawebproxy.com,REJECT
 - DOMAIN,usawebproxy.net,REJECT
 - DOMAIN,use.alabasgames.com,REJECT
+- DOMAIN,use.delcarmen.cl,REJECT
 - DOMAIN,use.mypics.ca,REJECT
 - DOMAIN,use.paper.is,REJECT
 - DOMAIN,use.purplefolder.com.np,REJECT
+- DOMAIN,use.star.is,REJECT
 - DOMAIN,use.winterhouse.info,REJECT
 - DOMAIN,userload.co,REJECT
 - DOMAIN,userproxy.com,REJECT
@@ -4184,6 +4196,7 @@ payload:
 - DOMAIN,www-proxy.migastep.com,REJECT
 - DOMAIN,www-proxy.retportal.com,REJECT
 - DOMAIN,www-proxy.sayed.page,REJECT
+- DOMAIN,www-proxy.valentiin.com,REJECT
 - DOMAIN,www-rf4.forestberrypi.com,REJECT
 - DOMAIN,www-server.freewebsproxy.com,REJECT
 - DOMAIN,www-vpn.52oupa.com,REJECT
