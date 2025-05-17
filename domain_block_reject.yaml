@@ -1,6 +1,6 @@
 # Title: Domain_Blocklist_For_Clash_Meta
-# Generated: 2025-05-16 04:19:10
-# Total: 4299
+# Generated: 2025-05-17 04:17:20
+# Total: 4310
 
 payload:
 - DOMAIN,003153.xyz,REJECT
@@ -807,6 +807,7 @@ payload:
 - DOMAIN,dns.0ooo.icu,REJECT
 - DOMAIN,dns.0x55.net,REJECT
 - DOMAIN,dns.13evl.com,REJECT
+- DOMAIN,dns.23-4.cn,REJECT
 - DOMAIN,dns.233py.com.cdn.cloudflare.net,REJECT
 - DOMAIN,dns.240527.xyz,REJECT
 - DOMAIN,dns.354688.xyz,REJECT
@@ -946,6 +947,7 @@ payload:
 - DOMAIN,dns.eddi.net,REJECT
 - DOMAIN,dns.edgeburnmedia.com,REJECT
 - DOMAIN,dns.editechstudio.com,REJECT
+- DOMAIN,dns.efficientdocuments.com,REJECT
 - DOMAIN,dns.elemental.software,REJECT
 - DOMAIN,dns.eliv.kr,REJECT
 - DOMAIN,dns.engineer.web.id,REJECT
@@ -1101,6 +1103,7 @@ payload:
 - DOMAIN,dns.mtoo.vip,REJECT
 - DOMAIN,dns.murgi.de,REJECT
 - DOMAIN,dns.muxinghe.cn,REJECT
+- DOMAIN,dns.mzjtechnology.com,REJECT
 - DOMAIN,dns.mzrme.cn,REJECT
 - DOMAIN,dns.n23.io,REJECT
 - DOMAIN,dns.nako.kr,REJECT
@@ -1558,6 +1561,7 @@ payload:
 - DOMAIN,edgedcircles.com,REJECT
 - DOMAIN,edgy-dns.com,REJECT
 - DOMAIN,edpuzzle-lol.vercel.app,REJECT
+- DOMAIN,edpuzzle.space,REJECT
 - DOMAIN,edu.defdc.com,REJECT
 - DOMAIN,edu.moldeo.org,REJECT
 - DOMAIN,eduacation.lol,REJECT
@@ -1666,6 +1670,7 @@ payload:
 - DOMAIN,finevpn.org,REJECT
 - DOMAIN,fireprox.net,REJECT
 - DOMAIN,firstcontact.site,REJECT
+- DOMAIN,fisdinstructure.gotroot.pw,REJECT
 - DOMAIN,fishingandgunoutdoors.com,REJECT
 - DOMAIN,fishproxy.com,REJECT
 - DOMAIN,fitnessdepotprices.com,REJECT
@@ -1784,6 +1789,7 @@ payload:
 - DOMAIN,furriesarecute.furryplace.eu,REJECT
 - DOMAIN,fwgw.orangepipc.mywire.org,REJECT
 - DOMAIN,g-a-y.pro,REJECT
+- DOMAIN,gabstorm.com,REJECT
 - DOMAIN,galileo.math.unipd.it,REJECT
 - DOMAIN,gamers-nor.com,REJECT
 - DOMAIN,gamgasyoppakuteri-zenttodabi.gslb.info,REJECT
@@ -1894,6 +1900,7 @@ payload:
 - DOMAIN,guardster.com,REJECT
 - DOMAIN,guavi.com,REJECT
 - DOMAIN,guestappearance.us,REJECT
+- DOMAIN,gumm.org,REJECT
 - DOMAIN,gva01.dnscry.pt,REJECT
 - DOMAIN,gvirabi.com,REJECT
 - DOMAIN,gwardgxd.baby,REJECT
@@ -1901,6 +1908,7 @@ payload:
 - DOMAIN,gztech.me,REJECT
 - DOMAIN,h-vpn.org,REJECT
 - DOMAIN,h.gjrick.tw,REJECT
+- DOMAIN,h0w.cc,REJECT
 - DOMAIN,haf01.dnscry.pt,REJECT
 - DOMAIN,hailey-complex.xst.cl,REJECT
 - DOMAIN,hamachi-blog.com,REJECT
@@ -1917,6 +1925,7 @@ payload:
 - DOMAIN,henry-and-evan-cant-rizz.kyleton.org,REJECT
 - DOMAIN,herbalserver.me,REJECT
 - DOMAIN,heroproxy.com,REJECT
+- DOMAIN,hiddendigital.info,REJECT
 - DOMAIN,hiddenproxy.net,REJECT
 - DOMAIN,hide-me.org,REJECT
 - DOMAIN,hide-my-ip.com,REJECT
@@ -2757,6 +2766,7 @@ payload:
 - DOMAIN,please-please-please-watch-you-or.dexter.e1racecar.com,REJECT
 - DOMAIN,pleasekeep.strokin.it,REJECT
 - DOMAIN,pleaseworkiwantutopia.faizinternational.com.np,REJECT
+- DOMAIN,pltw.csproject.org,REJECT
 - DOMAIN,pluhbruh.mctwisted.pro,REJECT
 - DOMAIN,pluhster.computersforpeace.net,REJECT
 - DOMAIN,pluralsight.gq,REJECT
@@ -4082,6 +4092,7 @@ payload:
 - DOMAIN,vps.jmarkin.ru,REJECT
 - DOMAIN,vps1.jnraptor.net,REJECT
 - DOMAIN,vps2.jnraptor.net,REJECT
+- DOMAIN,vpschito.duckdns.org,REJECT
 - DOMAIN,vpsus3.pzhg.me,REJECT
 - DOMAIN,vtcuong.site,REJECT
 - DOMAIN,vyprvpn.com,REJECT
